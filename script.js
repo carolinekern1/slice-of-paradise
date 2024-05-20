@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Welcome to Pizza Shop Indonesia!');
+    console.log('Welcome to Slice of Paradise!');
 });
